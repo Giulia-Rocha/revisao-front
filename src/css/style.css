@@ -1,0 +1,18 @@
+:root{
+    --font-color1: #000;
+    --font-color2: #fff;
+    --font-color2: #00ffff;
+    --bg-color: #110656;
+    --bg-color2: #faaaf0;
+
+}
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    display:flex;
+    flex-direction: column;
+}
